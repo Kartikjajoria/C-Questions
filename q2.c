@@ -1,4 +1,4 @@
-// find the greatest no among three nos
+// find the greatest no among three no's
 #include<stdio.h>
 
 int main()
