@@ -1,3 +1,4 @@
+convert hexadecimal no to  binary
 #include<stdio.h>
 int main()
 {char hexNum[100];
