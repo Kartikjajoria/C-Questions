@@ -1,3 +1,4 @@
+// display amstrong no, prime no, reverse of an integer
 #include<stdio.h>
 int main()
 {
