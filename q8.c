@@ -1,3 +1,4 @@
+// addition, sustraction, multiplication, division
 #include<stdio.h>
 int main()
 {int n1,n2,*p1,*p2,a,s,m,d;
