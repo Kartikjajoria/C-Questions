@@ -1,3 +1,4 @@
+// find avg marks of students
 #include<stdio.h>
 int main()
 {int a[55],i,n;
