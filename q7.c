@@ -1,3 +1,4 @@
+// find the no palindrome or not
 #include <stdio.h>
 #include <string.h>
 int main()
