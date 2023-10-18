@@ -1,4 +1,4 @@
-check weather no is prime or not
+// check weather no is prime or not
 #include<stdio.h>
 
 int main()
